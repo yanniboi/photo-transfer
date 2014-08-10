@@ -1,0 +1,15 @@
+{
+    "name": "photo-transfer",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "",
+        "body-parser": "",
+        "method-override": "",
+        "morgan": "",
+        "connect-busboy": "",
+    }
+}
